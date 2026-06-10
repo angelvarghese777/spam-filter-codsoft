@@ -31,6 +31,7 @@ At first, I used TF-IDF vectorization with Logistic Regression. However, the per
 
 ## Example Use Case
 Input: "Congratulations! You won a free iPhone"
+
 Output: SPAM
 
 ## Tools & Libraries
